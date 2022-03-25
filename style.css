@@ -13,7 +13,7 @@ section {
     
 }
 section.first-s{
-    background-image: url(./header-bg.png);
+    background-image: url(./personal-website/header-bg.png);
     background-repeat: no-repeat;
 
 }
@@ -52,7 +52,7 @@ button a{
 
 /*2nd*/
 section.sec-s{
-    background-image: url(./biography-bg.png);
+    background-image: url(./personal-website/biography-bg.png);
     background-repeat: no-repeat;
 }
 
@@ -72,7 +72,7 @@ div.width img {
 
 /*last*/
 section.last-ss{
-    background-image: url(./footer-bg.png);
+    background-image: url(./personal-website/footer-bg.png);
     background-repeat: no-repeat;
     text-align: center;
 }
@@ -103,6 +103,5 @@ section.last-ss p{
 
 footer{
     text-align: center;
-
 }
 
